@@ -13,3 +13,6 @@ Blog template to use GitHub Issues as article editor.
 
 1. Create an issue.
 2. Wait a few minutes and your blog will be updated.
+
+### URL
+https://stellabo.github.io/daily_report/
