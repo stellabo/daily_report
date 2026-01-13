@@ -1,0 +1,112 @@
+---
+active_lock_reason: 
+assignee: 
+assignees: []
+author_association: OWNER
+closed_at: 
+comments: 1
+comments_url: https://api.github.com/repos/stellabo/daily_report/issues/27/comments
+created_at: '2025-08-16T11:22:07Z'
+events_url: https://api.github.com/repos/stellabo/daily_report/issues/27/events
+html_url: https://github.com/stellabo/daily_report/issues/27
+id: 3327185933
+labels: []
+labels_url: https://api.github.com/repos/stellabo/daily_report/issues/27/labels{/name}
+locked: false
+milestone: 
+node_id: I_kwDOKDBFSs7GUNQN
+number: 27
+performed_via_github_app: 
+reactions:
+  "+1": 0
+  "-1": 0
+  confused: 0
+  eyes: 0
+  heart: 0
+  hooray: 0
+  laugh: 0
+  rocket: 0
+  total_count: 0
+  url: https://api.github.com/repos/stellabo/daily_report/issues/27/reactions
+repository_url: https://api.github.com/repos/stellabo/daily_report
+state: open
+state_reason: 
+sub_issues_summary:
+  completed: 0
+  percent_completed: 0
+  total: 0
+timeline_url: https://api.github.com/repos/stellabo/daily_report/issues/27/timeline
+title: 日々継続することと、今後の方針について
+updated_at: '2025-08-17T12:37:43Z'
+url: https://api.github.com/repos/stellabo/daily_report/issues/27
+user:
+  avatar_url: https://avatars.githubusercontent.com/u/46933816?v=4
+  events_url: https://api.github.com/users/stellabo/events{/privacy}
+  followers_url: https://api.github.com/users/stellabo/followers
+  following_url: https://api.github.com/users/stellabo/following{/other_user}
+  gists_url: https://api.github.com/users/stellabo/gists{/gist_id}
+  gravatar_id: ''
+  html_url: https://github.com/stellabo
+  id: 46933816
+  login: stellabo
+  node_id: MDQ6VXNlcjQ2OTMzODE2
+  organizations_url: https://api.github.com/users/stellabo/orgs
+  received_events_url: https://api.github.com/users/stellabo/received_events
+  repos_url: https://api.github.com/users/stellabo/repos
+  site_admin: false
+  starred_url: https://api.github.com/users/stellabo/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/stellabo/subscriptions
+  type: User
+  url: https://api.github.com/users/stellabo
+  user_view_type: public
+
+---
+## 継続することの難しさ
+
+このブログを立ち上げた当初の目的は、「日記を習慣化するため」であったが、
+過去の更新履歴からお察しの通り、見事に失敗している。
+
+
+一応、「デイリーミッション」と称して、
+日々のルーティンをチェックボックス化し、
+毎日できているか記録したり、
+メモ帳で何かを行うたびにF5キーを押し、現在時刻を表示させ、何時何分に何をしたかを記録する等、
+様々な試みを試してきたが、中々うまくいっていないのが現状である。
+
+
+ルーティンが上手くいかない要因として、
+- 毎日続けるにはハードルが高すぎた
+- 生活リズムを一気に変えようとしていた
+- 自分の性格に合っていない方法で継続しようとしていた
+
+等が挙げられる。
+例えば、毎日腹筋ローラー50回をやるとしても、
+腹筋ローラー50回自体がかなりハードルが高く、また自宅という誰にも監視されていない環境だと、
+サボっても問題はないため、ただ単に宣言した所で、自分の性格上継続できない。
+この反省点から、以下を意識して、本日から再出発しようと思う。
+- 毎日無理なく続けられるハードルの低いルーティンを設定する
+- 一気に複数のルーティンを追加するのではなく、１つずつ追加する
+- twitterやインスタといったSNSにアップし、疑似的に監視される環境を作る
+
+## 本ブログの運用方針に関して
+
+上で述べたように、日々のルーティンを継続するうえで、ルーティンの記録はtwitterやinstagramで行おうと思う。
+そもそも、日々の日記やルーティンを記録として残すだけなら、
+twitterの方が圧倒的にハードルが低いし、無闇に記事数を増やすこともない。
+
+
+instagramは諸事情で最近始めたのだが、ストーリーズという24時間で消える投稿機能が有益に使えそうだと考えている。
+日々の作業風景をタイムラプスで撮影し、終わったらストーリーズに投稿することで、
+フォロワー達に、自分がルーティンをこなしたと伝えることができる。
+このとき、24時間で消えるというのがメリットで、twitterではプライバシーの関係上、
+顔出しの作業配信はできなかったが、instagramは記録に残り続けないため、顔出しのハードルを低くできる。
+
+
+という訳で、毎日のルーティンはSNS上で管理するとして、
+本ブログは、週1か月1くらいで、進捗の総まとめをしたり、技術的な記事を残すぐらいの運用が、
+一番合っているかもしれない。
+自分はハードウェアエンジニアであって、ソフトウェアエンジニアではないため、
+わざわざgithubを用いてブログを作る意味は薄いかもしれないが、
+一応、他のリポジトリで自分の作品データを管理しているため、
+このブログも、自分の作品の一つとして、ひっそりと運用していこうと思う。
+(他のブログサービスと違って、機能の拡張やエラー対応を自分でしないといけない点、Markdown機能が厄介だが…)
